@@ -1,0 +1,7 @@
+# Capturing Screen Coordinates
+
+Use the companion script:
+
+https://github.com/TABARC-Code/windows-mouse-coordinates
+
+Coordinates are absolute pixels on the primary display.
