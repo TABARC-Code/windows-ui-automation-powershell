@@ -31,3 +31,22 @@ $TextToType  = "continue"
 bsicaly use the x/y plotter to locate the sublit button location of the chatgtp ui and the location of the command system.
 
 then just put thise details in the script replacng the exisiting cordinates. Then let the script just type next and click ok to run the chatgtp or what ever automatically. ts a simple dump script but gets a round a lot of issues.
+
+## Warnings
+
+This is pixel automation:
+
+DPI changes will break it - If you get stuck ask.
+
+Window movement will break it - Once set up leave it a lone. dont move the mouse
+
+Focus loss will break it - set up and leave it alone.
+
+Use for controlled environments only.
+
+Author
+
+TABARC-Code
+https://github.com/TABARC-Code
+
+
